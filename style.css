@@ -1,0 +1,9 @@
+body{
+    color: rgba(0,0,0,0);
+ background-image: url(/bg-image-3.jpg);
+
+}
+.btn-secondary{
+    background: rgb(17,5,230);
+    background: linear-gradient(90deg, rgba(17,5,230,1) 4%, rgba(142,11,186,1) 17%, rgba(214,6,124,1) 50%, rgba(227,70,24,1) 91%);
+}
