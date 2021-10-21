@@ -27,3 +27,13 @@ background: linear-gradient(90deg, rgba(17,5,230,1) 0%, rgba(52,24,227,1) 0%, rg
     font-size: 5em;
     padding-left: 70px;
 }
+.my-2:hover{
+    background-color: #0d6efd;
+    gap: 50px;
+}
+.container:hover{
+    transition: transform 0.65s cubic-bezier(0.05, 0.2, 0.1, 1), box-shadow 0.65s cubic-bezier(0.05, 0.2, 0.1, 1);
+    position: relative;
+    z-index: 2;
+}
+}
