@@ -1,13 +1,14 @@
 body{
     color: rgba(0,0,0,0);
     min-height:100%;
-    background:linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url(/bg-image-3.jpg);
+    background:linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url(/images/bg-image-3.jpg);
     background-size:cover;
     height: 100vh;
   }
 .btn-secondary{
-    background: rgb(17,5,230);
-    background: linear-gradient(90deg, rgba(17,5,230,1) 4%, rgba(142,11,186,1) 17%, rgba(214,6,124,1) 50%, rgba(227,70,24,1) 91%);
+   
+background: rgb(17,5,230);
+background: linear-gradient(90deg, rgba(17,5,230,1) 0%, rgba(49,24,227,1) 0%, rgba(255,24,132,1) 53%); 
 }
 .btn-outline-secondary:hover{
     background: rgb(17,5,230);
