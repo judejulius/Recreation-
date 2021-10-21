@@ -18,3 +18,11 @@ background: linear-gradient(90deg, rgba(17,5,230,1) 0%, rgba(227,80,24,1) 0%);
    color: white;
 background: linear-gradient(90deg, rgba(17,5,230,1) 0%, rgba(52,24,227,1) 0%, rgba(0,0,0,1) 23%, rgba(0,0,0,1) 81%, rgba(149,1,70,1) 100%);
 }
+.bi-activity{
+    font-size: 5em;
+    padding-left: 60px;
+}
+.bi-map{
+    font-size: 5em;
+    padding-left: 70px;
+}
